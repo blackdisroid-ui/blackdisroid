@@ -4,11 +4,13 @@
 هست استفاده کنین خوبه👇
 
 دانلود در ترموکس
+
 git clone https://github.com/blackdisroid-ui/BlackDisroid.git
 
 رفتن به داخل فایل 
 
 cd BlackDisroid
+
 اجرا کردن فایل و استفاده
 
 python3 blackdisroid.py
