@@ -1,10 +1,11 @@
 # blackdisroid
-سلام دوستان گل منBlackdisroidهستم 
-کدهای زیر برای اجرایی یه systeam info
+سلام دوستان گل من بلک دیسروید هستم 
+کدهای زیر برای اجرایی یه  نشون دهند سیستم گوشی شما
 هست استفاده کنین خوبه👇
 
 دانلود در ترموکس
 git clone https://github.com/blackdisroid-ui/BlackDisroid.git
+
 رفتن به داخل فایل 
 
 cd BlackDisroid
