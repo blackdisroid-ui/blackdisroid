@@ -3,15 +3,15 @@
 کدهای زیر برای اجرایی یه  نشون دهند سیستم گوشی شما
 هست استفاده کنین خوبه👇
 
-دانلود در ترموکس
+دانلود در ترموکس>
 
 git clone https://github.com/blackdisroid-ui/BlackDisroid.git
 
-رفتن به داخل فایل 
+رفتن به داخل فایل>
 
 cd BlackDisroid
 
-اجرا کردن فایل و استفاده
+اجرا کردن فایل و استفاده>
 
 python3 blackdisroid.py
 
